@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello&nbsp;World!!&animation=twinkling&fontColor=ffffff&fontSize=40&fontAlign=80&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello&nbsp;World!&animation=twinkling&fontColor=ffffff&fontSize=40&fontAlign=80&fontAlignY=30)
 
 <!--
 **HongNR/HongNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
