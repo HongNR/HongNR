@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello&nbsp;World!&animation=twinkling&fontColor=ffffff&fontSize=40&fontAlign=80&fontAlignY=30)
+<div align="center">
+  <img src= "https://github-readme-stats.vercel.app/api?username=HongNR&show_icons=true&theme=default#gh-light-mode-only"/>
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=HongNR&layout=compact"/>  
+</div>
 
 <!--
 **HongNR/HongNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
