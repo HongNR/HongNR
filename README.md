@@ -1,7 +1,7 @@
 <div align="center">
   <img width="800" src= "https://github.com/user-attachments/assets/daa39763-7e66-42a3-8c27-b8e34cb6f12b"/>
-  <img src= "https://github-readme-stats.vercel.app/api?username=HongNR&show_icons=true&theme=default#gh-light-mode-only"/>
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=HongNR&layout=compact"/>  
+  <img src= "https://github-readme-stats.vercel.app/api?username=HongNR&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only"/>
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=HongNR&layout=compact"/>
 </div>
 
 <!--
