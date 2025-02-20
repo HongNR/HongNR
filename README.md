@@ -6,7 +6,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Github-stats </h2> 
     <div align= "center"> 
       <img src="https://github-readme-stats.vercel.app/api?username=HongNR&include_all_commits=true&bg_color=180,00000000,ffffff&title_color=ffbdea&text_color=ffbdea" width="49.2%" height= "210px"/> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongNR&layout=compact&bg_color=180,00000000,ffffff&title_color=ffbdea&text_color=ffbdea" width="49.2%" height= "210px"/> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongNR&layout=compact&bg_color=180,00000000,ffffff&title_color=ffbdea&text_color=ffbdea" width="49.2%" height= "180px"/> 
     </div> 
 </div>
 
