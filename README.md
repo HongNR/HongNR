@@ -1,7 +1,13 @@
-<div align="center">
-  <img width="800" src= "https://github.com/user-attachments/assets/daa39763-7e66-42a3-8c27-b8e34cb6f12b"/>
-  <img src= "https://github-readme-stats.vercel.app/api?username=HongNR&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only"/>
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=HongNR&layout=compact"/>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:edccff,100:f76eda&height=180&text=Hello%20World✋I'm%20HongNR&animation=twinkling&fontColor=ffffff&fontSize=40" />
+</div>
+
+<div style="text-align: left;"> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Github-stats </h2> 
+    <div align= "center"> 
+      <img src="https://github-readme-stats.vercel.app/api?username=HongNR&include_all_commits=true&bg_color=180,00000000,ffffff&title_color=ffbdea&text_color=ffbdea" width="49.2%" height= "210px"/> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongNR&layout=compact&bg_color=180,00000000,ffffff&title_color=ffbdea&text_color=ffbdea" width="49.2%" height= "210px"/> 
+    </div> 
 </div>
 
 <!--
